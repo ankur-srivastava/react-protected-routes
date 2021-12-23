@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.authMessage {
+  margin: 1%;
+  padding: 1%;
+  text-align: center;
+}
+.buttons {
+  color: cadetblue;
+  margin: 1%;
+  padding: 1%;
+}
